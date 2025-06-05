@@ -1,9 +1,17 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
+<<<<<<< Updated upstream
     font-size:16px;
 }
 body{
     background-color: rebeccapurple;
+=======
+    font-size: 16px;
+}
+body{
+    background-color: 
+rebeccapurple;
+>>>>>>> Stashed changes
 }
 
 main{
